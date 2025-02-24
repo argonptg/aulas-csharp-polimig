@@ -1,0 +1,6 @@
+D:\C#\Aula2-4\bin\Debug\Aula2-4.exe.config
+D:\C#\Aula2-4\bin\Debug\Aula2-4.exe
+D:\C#\Aula2-4\bin\Debug\Aula2-4.pdb
+D:\C#\Aula2-4\obj\Debug\Aula2-4.csprojResolveAssemblyReference.cache
+D:\C#\Aula2-4\obj\Debug\Aula2-4.exe
+D:\C#\Aula2-4\obj\Debug\Aula2-4.pdb
