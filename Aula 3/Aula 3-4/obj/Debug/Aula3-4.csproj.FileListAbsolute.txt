@@ -1,0 +1,6 @@
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\Aula3-4\bin\Debug\Aula3-4.exe.config
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\Aula3-4\bin\Debug\Aula3-4.exe
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\Aula3-4\bin\Debug\Aula3-4.pdb
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\Aula3-4\obj\Debug\Aula3-4.csprojResolveAssemblyReference.cache
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\Aula3-4\obj\Debug\Aula3-4.exe
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\Aula3-4\obj\Debug\Aula3-4.pdb

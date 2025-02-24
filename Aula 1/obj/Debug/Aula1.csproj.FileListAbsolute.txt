@@ -1,0 +1,8 @@
+D:/C#/Aula1/obj/Debug/Aula1.csprojResolveAssemblyReference.cache
+D:/C#/Aula1/bin/Debug/Aula1.exe.config
+D:/C#/Aula1/bin/Debug/Aula1.exe
+D:/C#/Aula1/bin/Debug/Aula1.pdb
+D:/C#/Aula1/obj/Debug/Aula1.exe
+D:/C#/Aula1/obj/Debug/Aula1.pdb
+/run/media/argon/RobertoCarlos/C#/Aula1/obj/Debug/Aula1.exe
+/run/media/argon/RobertoCarlos/C#/Aula1/obj/Debug/Aula1.pdb

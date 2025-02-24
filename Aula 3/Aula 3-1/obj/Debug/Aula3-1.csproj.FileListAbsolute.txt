@@ -1,0 +1,6 @@
+D:\C#\Aula3-1\obj\Debug\Aula3-1.csprojResolveAssemblyReference.cache
+D:\C#\Aula3-1\bin\Debug\Aula3-1.exe.config
+D:\C#\Aula3-1\bin\Debug\Aula3-1.exe
+D:\C#\Aula3-1\bin\Debug\Aula3-1.pdb
+D:\C#\Aula3-1\obj\Debug\Aula3-1.exe
+D:\C#\Aula3-1\obj\Debug\Aula3-1.pdb
