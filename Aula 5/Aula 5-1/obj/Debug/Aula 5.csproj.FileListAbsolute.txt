@@ -1,0 +1,6 @@
+D:\C#\Aula 5\bin\Debug\Aula 5.exe.config
+D:\C#\Aula 5\bin\Debug\Aula 5.exe
+D:\C#\Aula 5\bin\Debug\Aula 5.pdb
+D:\C#\Aula 5\obj\Debug\Aula 5.csprojResolveAssemblyReference.cache
+D:\C#\Aula 5\obj\Debug\Aula 5.exe
+D:\C#\Aula 5\obj\Debug\Aula 5.pdb

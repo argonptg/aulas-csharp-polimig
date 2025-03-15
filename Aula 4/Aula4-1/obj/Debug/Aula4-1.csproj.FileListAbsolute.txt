@@ -1,0 +1,8 @@
+D:\C#\Aula 4\Aula4-1\bin\Debug\Aula4-1.exe.config
+D:\C#\Aula 4\Aula4-1\bin\Debug\Aula4-1.exe
+D:\C#\Aula 4\Aula4-1\bin\Debug\Aula4-1.pdb
+D:\C#\Aula 4\Aula4-1\obj\Debug\Aula4-1.csprojResolveAssemblyReference.cache
+D:\C#\Aula 4\Aula4-1\obj\Debug\Aula4_1.MainForm.resources
+D:\C#\Aula 4\Aula4-1\obj\Debug\Aula4-1.csproj.GenerateResource.Cache
+D:\C#\Aula 4\Aula4-1\obj\Debug\Aula4-1.exe
+D:\C#\Aula 4\Aula4-1\obj\Debug\Aula4-1.pdb

@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula4-1", "Aula4-1.csproj", "{537DA779-6FF2-40CB-8315-51E8ACA79116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{537DA779-6FF2-40CB-8315-51E8ACA79116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{537DA779-6FF2-40CB-8315-51E8ACA79116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{537DA779-6FF2-40CB-8315-51E8ACA79116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{537DA779-6FF2-40CB-8315-51E8ACA79116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
