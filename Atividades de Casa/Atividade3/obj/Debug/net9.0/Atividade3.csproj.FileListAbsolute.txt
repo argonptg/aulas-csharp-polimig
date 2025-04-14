@@ -1,0 +1,14 @@
+/home/argonptg/Documents/Programming/Polimig/C#/Atividade3/bin/Debug/net9.0/Atividade3
+/home/argonptg/Documents/Programming/Polimig/C#/Atividade3/bin/Debug/net9.0/Atividade3.deps.json
+/home/argonptg/Documents/Programming/Polimig/C#/Atividade3/bin/Debug/net9.0/Atividade3.runtimeconfig.json
+/home/argonptg/Documents/Programming/Polimig/C#/Atividade3/bin/Debug/net9.0/Atividade3.dll
+/home/argonptg/Documents/Programming/Polimig/C#/Atividade3/bin/Debug/net9.0/Atividade3.pdb
+/home/argonptg/Documents/Programming/Polimig/C#/Atividade3/obj/Debug/net9.0/Atividade3.GeneratedMSBuildEditorConfig.editorconfig
+/home/argonptg/Documents/Programming/Polimig/C#/Atividade3/obj/Debug/net9.0/Atividade3.AssemblyInfoInputs.cache
+/home/argonptg/Documents/Programming/Polimig/C#/Atividade3/obj/Debug/net9.0/Atividade3.AssemblyInfo.cs
+/home/argonptg/Documents/Programming/Polimig/C#/Atividade3/obj/Debug/net9.0/Atividade3.csproj.CoreCompileInputs.cache
+/home/argonptg/Documents/Programming/Polimig/C#/Atividade3/obj/Debug/net9.0/Atividade3.dll
+/home/argonptg/Documents/Programming/Polimig/C#/Atividade3/obj/Debug/net9.0/refint/Atividade3.dll
+/home/argonptg/Documents/Programming/Polimig/C#/Atividade3/obj/Debug/net9.0/Atividade3.pdb
+/home/argonptg/Documents/Programming/Polimig/C#/Atividade3/obj/Debug/net9.0/Atividade3.genruntimeconfig.cache
+/home/argonptg/Documents/Programming/Polimig/C#/Atividade3/obj/Debug/net9.0/ref/Atividade3.dll
