@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QgLZxOHa2ig=",
+  "success": true,
+  "projectFilePath": "/home/argonptg/Documents/Polimig/C#/Lista3/Atividade 6/Atividade 6.csproj",
+  "expectedPackageFiles": [
+    "/home/argonptg/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
